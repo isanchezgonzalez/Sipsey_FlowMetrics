@@ -1,7 +1,7 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #Title: Magnficient 7 Flow Metrics
-#Coder: Nate Jones (cnjones7@ua.edu)
-#Date: 8/22/2020
+#Coder: Irene Sanchez isanchezgonzalez@crimson.ua.edu
+#Date: 8/31/2020
 #Purpose: Initial exploration of magnificient 7 flow metrics
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
